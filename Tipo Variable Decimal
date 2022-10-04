@@ -1,0 +1,23 @@
+
+public class TipoVariableDecimal {
+	
+	public static void main(String[] args) {
+		
+		//diferentes maneras de poder realizar las operaciones
+		
+		double salario = 1250.50;
+		System.out.println(salario);
+		
+		double edad = 28;
+		System.out.println(edad);
+		
+		double salarioMitad = salario / 2;
+		System.out.println(salarioMitad);
+		int division = 1250 / 3 ;
+		System.out.println(division) ;
+		
+		
+		}
+	
+
+}
